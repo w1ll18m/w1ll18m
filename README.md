@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am William Liu, a 4th year student at the University of Waterloo pursuing Computer Science💻.
 
 <!--
 **w1ll18m/w1ll18m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
