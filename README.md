@@ -5,10 +5,11 @@ I love to travel ✈ and play volleyball 🏐 in my free time.
 
 📝Work Experiences:
 
-1. Bank of America: Full Stack Engineer on the Prime Brokerage Risk Team 📈
-2. Manulife Canada: Backend Developer on the Cloud Platforms Architecture Team 🌧️
-3. BDO Lixar: Backend Developer on the Infrastructure as Code Framework (IaCF) Team 🛠️
-4. BDO Lixar: Full Stack Engineer on the Personal Debt Systems Team 🏦
+1. BitGo: Software Engineer on the Velocity Team 🏎️
+2. Bank of America: Full Stack Engineer on the Prime Brokerage Risk Team 📈
+3. Manulife Canada: Backend Developer on the Cloud Platforms Architecture Team 🌧️
+4. BDO Lixar: Backend Developer on the Infrastructure as Code Framework (IaCF) Team 🛠️
+5. BDO Lixar: Full Stack Engineer on the Personal Debt Systems Team 🏦
 
 My email: w375liu@uwaterloo.ca
 
