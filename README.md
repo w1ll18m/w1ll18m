@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am William Liu, a 4th year student at the University of Waterloo pursuing Computer Science💻.
+I am William Liu, a 4th year student at the University of Waterloo pursuing Computer Science 💻.
 
 I love to travel ✈ and play volleyball 🏐 in my free time.
 
